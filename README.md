@@ -1,4 +1,4 @@
-# drag-drop-Jquery
+# gallery-Jquery
 Filtrado de imagenes con Jquery
 
 ![Screenshot 2022-04-24 at 14-48-04 Drag   Drop](https://user-images.githubusercontent.com/91802048/164989870-9adda6ec-d4dd-40bc-9aeb-8052420a91ff.png)
